@@ -1,0 +1,8 @@
+streamlit
+ultralytics
+opencv-python
+pandas
+numpy
+matplotlib
+
+pip install streamlit ultralytics opencv-python pandas numpy matplotlib
